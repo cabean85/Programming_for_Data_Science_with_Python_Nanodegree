@@ -5,11 +5,11 @@
 Learn the programming fundamentals required for a career in data science. By the end of the program, you will be able to use Python, SQL, Command Line, and Git.
 
 ### Description
-Introduction to SQL:
+# Introduction to SQL:
 Learn SQL fundamentals such as JOINs, Aggregations, and Subqueries. Learn how to use SQL to answer complex business problems.
-Introduction to Python Programming:
+# Introduction to Python Programming:
 Learn Python programming fundamentals such as data structures, variables, loops, and functions. Learn to work with data using libraries like NumPy and Pandas.
-Introduction to Version Control:
+# Introduction to Version Control:
 Learn how to use version control and share your work with other people in the data science industry.
 
 ### Files used
