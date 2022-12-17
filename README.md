@@ -13,7 +13,9 @@ Introduction to Version Control:
 Learn how to use version control and share your work with other people in the data science industry.
 
 ### Files used
-Include the files used
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
