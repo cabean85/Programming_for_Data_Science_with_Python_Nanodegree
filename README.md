@@ -44,5 +44,14 @@ Create Python code to explore data related to bike share systems for three major
 * A text editor, like Sublime or Atom.
 * Linux or Cygwin on Windows 
 
+## Project 3: Version Control 
+
+### Overview
+Use Git and GitHub to simulate a wrokflow and refactor Udacity Projects
+
+### Version Control Submission
+
+[To view version control](Please link to folder here
+
 ### Credits
 Thanks to the Udacity platform for providing the Programming for Data Science with Python Nanodegree program.
