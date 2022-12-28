@@ -25,8 +25,17 @@ Powerpoint slides needed to consist of 1) Question choosen from Udacity list, 2)
 
 [To view my SQL Project](https://github.com/cabean85/Programming_for_Data_Science_with_Python_Nanodegree/tree/master/DVD-Rental)
 
+## Project 2: Python Bikeshare 
 
-### Files required for Udacity Projects
+### Overview 
+
+Create Python code to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Coded created to import the data and answer questions by computing statistics.
+
+### Bike Share Submission
+
+[To view bike share](Paste link here from git folder 
+
+### Files required for Bike Share Project 2
 * washington.csv
 * new_york_city.csv
 * chicago.csv
