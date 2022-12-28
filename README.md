@@ -33,7 +33,7 @@ Create Python code to explore data related to bike share systems for three major
 
 ### Bike Share Submission
 
-[To view bike share](Paste link here from git folder 
+[To view bike share](https://github.com/cabean85/Programming_for_Data_Science_with_Python_Nanodegree/tree/master/Bike-Share)
 
 ### Files required for Bike Share Project 2
 * washington.csv
