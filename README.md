@@ -23,7 +23,7 @@ Powerpoint slides needed to consist of 1) Question choosen from Udacity list, 2)
 
 ### DVD Rental Submission
 
-Please link to git folder here. Make sure the list of questions and pdf of powerpoint are in folder and final notpad of queries. 
+[To view my SQL Project](https://github.com/cabean85/Programming_for_Data_Science_with_Python_Nanodegree/tree/master/DVD-Rental)
 
 
 ### Files required for Udacity Projects
