@@ -39,7 +39,7 @@ Create Python code to explore data related to bike share systems for three major
 * washington.csv
 * new_york_city.csv
 * chicago.csv
-*** Software Required:
+### Software Required:
 * Python 3, NumPy, and pandas installed using Anaconda
 * A text editor, like Sublime or Atom.
 * Linux or Cygwin on Windows 
