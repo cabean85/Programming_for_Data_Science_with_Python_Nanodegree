@@ -87,7 +87,7 @@ def load_data(city, month, day):
         df = df[df['month'] == month]
     
 
-    print(df)
+
     df['day_of_the_week'] = df['Start Time'].dt.weekday_name      
  # convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
