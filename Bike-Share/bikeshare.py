@@ -85,10 +85,7 @@ def load_data(city, month, day):
 
 # filter by month to create the new dataframe 
         df = df[df['month'] == month]
-    
-
-
-    df['day_of_the_week'] = df['Start Time'].dt.weekday_name      
+        
  # convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
  # filter by day of the week if applicable
