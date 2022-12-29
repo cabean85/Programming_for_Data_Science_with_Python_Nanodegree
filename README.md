@@ -51,7 +51,7 @@ Use Git and GitHub to simulate a wrokflow and refactor Udacity Projects
 
 ### Version Control Submission
 
-[To view version control](Please link to folder here
+[To view version control](https://github.com/cabean85/Programming_for_Data_Science_with_Python_Nanodegree/blob/master/Refactoring)
 
 ### Credits
 Thanks to the Udacity platform for providing the Programming for Data Science with Python Nanodegree program.
